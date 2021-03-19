@@ -1,6 +1,6 @@
-## The below code uses the solve() function to cache the inverse of a matrix
+## The below code uses the solve() function to cache the inverse of a matrix.
 
-## 1. This function creates a special "matrix" object that can cache its inverse
+## 1. This function creates a special "matrix" object that can cache its inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
